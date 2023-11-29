@@ -4,13 +4,21 @@ However they may have different formats and languages make sure you have the req
 
 
 Affine
-a and b are any integers.
-to compile
-javac affine.java
-to run decrypt
-java decrypt inFile.txt outFile.txt a b
-to encrypt
-java encrypt inFile.txt outFile.txt a b
-to attempt decipher
-java decipher inFile.txt outFile.txt dictFile.txt
 
+a and b are any integers.
+
+to compile
+
+javac affine.java
+
+to run decrypt
+
+java decrypt inFile.txt outFile.txt a b
+
+to encrypt
+
+java encrypt inFile.txt outFile.txt a b
+
+to attempt decipher
+
+java decipher inFile.txt outFile.txt dictFile.txt
