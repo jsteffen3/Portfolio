@@ -4,7 +4,7 @@ However they may have different formats and languages make sure you have the req
 
 
 Affine
-a and b are any integers.
+a and b are any integers./n
 to compile
 javac affine.java
 to run decrypt
