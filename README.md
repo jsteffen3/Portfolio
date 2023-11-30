@@ -7,18 +7,23 @@ Affine
 
 a and b are any integers.
 
-to compile
+to compile.
 
 javac affine.java
 
-to run decrypt
+to run decrypt.
 
 java decrypt inFile.txt outFile.txt a b
 
-to encrypt
+to encrypt.
 
 java encrypt inFile.txt outFile.txt a b
 
-to attempt decipher
+to attempt decipher.
 
 java decipher inFile.txt outFile.txt dictFile.txt
+
+
+ChessWithPizzazz
+
+For this you only need to have java installed and run it by double clicking.
