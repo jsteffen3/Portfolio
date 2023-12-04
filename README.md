@@ -27,3 +27,14 @@ java decipher inFile.txt outFile.txt dictFile.txt
 ChessWithPizzazz
 
 For this you only need to have java installed and run it by double clicking.
+
+
+psy140
+
+to run this you need python installed.
+
+If its installed python3 psy140.py
+
+help for expanded functions
+
+all variabes are doubles
