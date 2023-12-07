@@ -1,0 +1,15 @@
+to run exact.py
+
+run this command.
+python3 exact.py
+
+next enter your input in the form of
+number of edges, then enter your edges
+example below.
+6
+a b
+a d
+a e
+b c
+c d
+c e
