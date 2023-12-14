@@ -1,10 +1,10 @@
 1. Ensure you have python installed.
 2. Navigate to the file's location.
-3. Run this command- python3 exact.py
-
-next enter your input in the form of
-number of edges, then enter your edges
-example below.
+3. Run this command- python3 exact.py.
+4. Next enter your input in the form of
+number of edges, then enter your edges.
+You must press enter after every edge.
+Example below:
 6
 a b
 a d
