@@ -5,4 +5,4 @@
 Example of vaild input for each operation:
 Decrypt: java affine decrypt inFile.txt outFile.txt 1 2
 Encrypt: java affine encrypt inFile.txt outFile.txt 1 2
-DSecipher: java affine decipher inFile.txt outFile.txt dictFile.txt
+Decipher: java affine decipher inFile.txt outFile.txt dictFile.txt
