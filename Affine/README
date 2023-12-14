@@ -2,4 +2,7 @@
 2. Move to the file's location.
 3. Run the command- javac affine java to compile.
 4. Run the command- java affine to run the program.
-5. 
+Example of vaild input for each operation:
+java affine decrypt inFile.txt outFile.txt 1 2
+java affine encrypt inFile.txt outFile.txt 1 2
+java affine decipher inFile.txt outFile.txt dictFile.txt
