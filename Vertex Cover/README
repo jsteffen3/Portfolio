@@ -1,6 +1,6 @@
 1. Ensure you have python installed.
 2. Navigate to the file's location.
-3. run this command- python3 exact.py
+3. Run this command- python3 exact.py
 
 next enter your input in the form of
 number of edges, then enter your edges
