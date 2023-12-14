@@ -1,4 +1,5 @@
 1. Ensure that you have java installed.
 2. Move to the file's location.
-3. Run the command- javac affine.java
-3. Run the command- java affine
+3. Run the command- javac affine java to compile.
+4. Run the command- java affine to run the program.
+5. 
