@@ -1,0 +1,104 @@
+.navitem {
+    margin-right: 5vw;
+}
+.close {
+    padding-left: 70vw;
+    font-size: 1.5em;
+}
+.content {
+    padding-top: 5vw;
+    margin-left: 7.5vw;
+    margin-right: 7.5vw;
+    text-align: center;
+    font-size: large;
+}
+.navbar {
+    position: fixed;
+    left:0px;
+    top:0px;
+    background-color: tan;
+    padding-top: .5vw;
+    padding-bottom: .5vw;
+    padding-left: .25vw;
+    padding-right: .25vw;
+    width:105%;
+}
+
+.back {
+    background-color:bisque;
+    height:100vh;
+    width:80vw;
+    position:fixed;
+    left:10vw;
+    top:0vh;
+    z-index: -1;
+}
+
+.card {
+    width:80%;
+    height:30vh;
+    background-color: white;
+    border-radius: 25px;
+    margin:auto;
+}
+
+#note {
+    height:3vh;
+    width: 50vw;
+}
+
+li {
+    text-align: left;
+}
+
+.explain {
+    padding-top: 3vh;
+}
+
+.cardS {
+    width:80%;
+    height:15vh;
+    background-color: white;
+    border-radius: 25px;
+    margin:auto;
+}
+
+img {
+    width:10vw;
+    height:25vh;
+    position:relative;
+}
+
+.about {
+    position: absolute;
+    left: 10vw;
+    top: 10vh;
+    margin-left: 7vw;
+    width: 63vw;
+    font-size: large;
+}
+
+.text {
+    position: absolute;
+    top:0vh;
+    left:11vw;
+}
+
+.open {
+    position: fixed;
+    top: 0vh;
+    left: 90vw;
+    font-size: large;
+    background-color:tan;
+    font-size: 1.5em;
+    width:30vw;
+    padding-left:5vw;
+}
+
+.cardM {
+    width:80%;
+    height:25vh;
+    background-color: white;
+    border-radius: 25px;
+    margin:auto;
+}
