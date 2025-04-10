@@ -1,4 +1,4 @@
-# Author: Hunter Mann
+# Author: Joshua Steffen & Hunter Mann
 # Vertex cover, exact min vertex cover
 
 import itertools as it
